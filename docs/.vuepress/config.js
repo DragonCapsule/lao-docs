@@ -1,6 +1,6 @@
 module.exports = {
-  title: "👾 The LAO - FAQs", // 🎉
-  description: "The LAO Documentation",
+  title: "👾 The YieldDAO - FAQs", // 🎉
+  description: "The YieldDAO Documentation",
   theme: "default-prefers-color-scheme",
   // for theme configuration, see https://vuepress.vuejs.org/theme/default-theme-config.html
   themeConfig: {
@@ -8,7 +8,7 @@ module.exports = {
     // by default, this theme uses the user's browser preferences to set either
     // light for dark.  I overrode it to always be dark for now to match LAO stylez.
     defaultTheme: "dark",
-    logo: "/lao-logo-animated-medium.gif",
+    logo: "/ydm-logo.png",
     /* standard vuepress themeConfig options */
     repo: "openlawteam/lao-docs",
     docsDir: "docs",
