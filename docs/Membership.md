@@ -1,38 +1,38 @@
 # Membership
 
-## How can I contribute to The LAO and become a member?
+## How can I contribute to The yieldDAO and become a member?
 
-Membership in The LAO is currently limited to accredited investors, as defined under U.S. law. The total number of members will be capped at a maximum of 99 members.
+Membership in The yieldDAO is currently limited to accredited investors, as defined under U.S. law. The total number of members will be capped at a maximum of 99 members.
 
-Members have the opportunity to contribute Ether to The LAO by purchasing units representing an ownership in The LAO ("LAO Units"). The members reserve the right to create a LAO Token to represent LAO Units via a Member votes.
+Members have the opportunity to contribute Ether to The yieldDAO by purchasing units representing an ownership in The yieldDAO ("yieldDAO Units"). The members reserve the right to create a yieldDAO Token to represent yieldDAO Units via a Member votes.
 
-Units are sold in blocks. Each block of LAO Units (or 100,000 units) is currently being sold for 310 ETH and provide a member with 0.9% of the voting rights in The LAO, along with 0.9% pro rata rights to any proceeds from investments. The per unit number to buy units into The LAO will increase incrementally after every investment The LAO makes.
+Units are sold in blocks. Each block of yieldDAO Units (or 100,000 units) is currently being sold for 310 ETH and provide a member with 0.9% of the voting rights in The yieldDAO, along with 0.9% pro rata rights to any proceeds from investments. The per unit number to buy units into The yieldDAO will increase incrementally after every investment The yieldDAO makes.
 
-Each member is be permitted to purchase up to nine blocks of LAO Units (or 7.2% in total).
+Each member is be permitted to purchase up to nine blocks of yieldDAO Units (or 7.2% in total).
 
 The sale will be denominated in Ether. Ether to US dollar calculations will be provided via a real time oracle feed from [Chainlink](https://chain.link/).
 
-## Are The LAO Units securities?
+## Are The yieldDAO Units securities?
 
-The LAO Units have not been approved or disapproved by the U.S. Securities and Exchange Commission, any state securities commission in the United States, or any other global regulatory authority.
+The yieldDAO Units have not been approved or disapproved by the U.S. Securities and Exchange Commission, any state securities commission in the United States, or any other global regulatory authority.
 
-## Can I contribute Bitcoin, Dai, or other assets to The LAO?
+## Can I contribute Bitcoin, Dai, or other assets to The yieldDAO?
 
 All contributions are currently only limited to Ether, unless the members agree otherwise.
 
-## Why is membership in The LAO limited to accredited investors and 99 members?
+## Why is membership in The yieldDAO limited to accredited investors and 99 members?
 
-As noted above, the U.S. Securities and Exchange Commission and/or equivalent government bodies in other jurisdictions have not determined whether membership interests in The LAO (represented as units) are securities.
+As noted above, the U.S. Securities and Exchange Commission and/or equivalent government bodies in other jurisdictions have not determined whether membership interests in The yieldDAO (represented as units) are securities.
 
 In the abundance of caution, the limits in membership and accreditation status for U.S. contributors are put in place to:
 
 - comply with U.S. securities law;
-- prevent any one party from controlling a disproportionate amount of The LAO; and
-- limit the risk of look through issues for The LAO Members that are organized as funds or other legal entities.
+- prevent any one party from controlling a disproportionate amount of The yieldDAO; and
+- limit the risk of look through issues for TheyieldDAO Members that are organized as funds or other legal entities.
 
 ## Are there any other requirements needed to become a member?
 
-To contribute Ether to The LAO, members will need to go through accredited investor, anti-money laundering ("AML"), Know Your Customer ("KYC"), and Office of Foreign Assets Control ("OFAC") checks as defined under U.S. law and as discussed further below. A joining member will need to deposit a sufficient amount of Ether from the member's Ethereum address in order to complete the membership process.
+To contribute Ether to The yieldDAO, members will need to go through accredited investor, anti-money laundering ("AML"), Know Your Customer ("KYC"), and Office of Foreign Assets Control ("OFAC") checks as defined under U.S. law and as discussed further below. A joining member will need to deposit a sufficient amount of Ether from the member's Ethereum address in order to complete the membership process.
 
 A member will also need to submit sufficient information to verify the potential member's identity for AML, KYC, and OFAC checks, including:
 
@@ -52,11 +52,11 @@ With respect to legal entities:
 
 The full definition can be found [here](https://www.sec.gov/fast-answers/answers-accredhtm.html).
 
-In order to register and validate members, a potential member will need to supply The LAO with sufficient information to assess whether the member meets these legal requirements, which will be confirmed by The LAO's service provider.
+In order to register and validate members, a potential member will need to supply The yieldDAO with sufficient information to assess whether the member meets these legal requirements, which will be confirmed by The yieldDAO's service provider.
 
 ==Post Contribution==
-Once a Member makes a contribution, The LAO's underlying smart contracts will need to whitelist the Member's applicable Ethereum address. The process for validating and whitelisting the Member's Ethereum address will be done in order of contribution and will take at least 14 total days to complete. The process takes 7 days to process the proposal and another 7 days to provide Members the right to "rage quit" if they so choose.
+Once a Member makes a contribution, The yieldDAO's underlying smart contracts will need to whitelist the Member's applicable Ethereum address. The process for validating and whitelisting the Member's Ethereum address will be done in order of contribution and will take at least 14 total days to complete. The process takes 7 days to process the proposal and another 7 days to provide Members the right to "rage quit" if they so choose.
 
 ## Why is there a fixed amount of Ether upon submitting an application?
 
-If everyone submits a different amount of Ether, the interests in The LAO would have variable pricing.  If a member "rage quits" then that member could conceivably get back more Ether than he or she contributed.
+If everyone submits a different amount of Ether, the interests in The yieldDAO would have variable pricing.  If a member "rage quits" then that member could conceivably get back more Ether than he or she contributed.
